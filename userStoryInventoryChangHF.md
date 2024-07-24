@@ -817,7 +817,7 @@ This section shows the areas or sources thus far
 | Confirm transaction has been sent  | Given that I have gone through the DRep registration process <br>When I press the button on my wallet to submit the transaction <br>Then I will receive a confirmation message from GovTool that will include a link to the transaction in a block explorer                                                                        |
 | Status of transaction is displayed | Given that I have just submitted a DRep registration transaction, and I am looking at the dashboard <br>When the registration has not yet been confirmed by the blockchain, <br>Then the registration status will show as “In Progress” until it is confirmed                                                                      |
 
-### Link
+### Link 
 
 ## User Story ID: CH.VO.004
 
